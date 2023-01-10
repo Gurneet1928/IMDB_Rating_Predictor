@@ -10,7 +10,7 @@ Should I say it never felt this bot-like 😎
 ![enter image description here](https://img.shields.io/badge/license-MIT-green)
 IMDB gives rating to movies based on several criteria. We will analyze these and predict the rating of movies using Machine Learning Models.
 Powered by **Jupyter**
-Partner in Crime: Rishabh Kumar (......pending link.......)
+Partner in Crime: Rishabh Kumar (https://github.com/Rishabh-darkKnight)
 Main File to Look for in the repo: [Main File with 4 Models](MainFile_4-Models.ipynb)
 
 ![The Rock](https://media.tenor.com/TPXMriXwLD4AAAAM/lets-go-the-rock.gif)
